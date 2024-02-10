@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splash">#222433</color>
+    <color name="search">#4e516f</color>
+    <color name="notes_btn">#cbfea3</color>
+    <color name="subTitle">#D3D3D3</color>
+</resources>
