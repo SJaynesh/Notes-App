@@ -6,4 +6,9 @@
     <color name="search">#4e516f</color>
     <color name="notes_btn">#cbfea3</color>
     <color name="subTitle">#D3D3D3</color>
+    <color name="addNotes">#f5c47b</color>
+    <color name="noteColor1">#2c68f3</color>
+    <color name="noteColor2">#F60000</color>
+    <color name="noteColor3">#aa3772</color>
+    <color name="noteColor4">#E0AB0D</color>
 </resources>
